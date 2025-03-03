@@ -1,3 +1,47 @@
+
+# 🚀 My Portfolio
+
+### 🌐 Live Demo: [Visit Portfolio](https://yourportfolio.com)
+
+![Portfolio Preview]([https://yourimageurl.com/homepage.png](https://drive.google.com/file/d/1cljQ9zY0rdv4O9kfwY8KjpV4MI8zwUfo/view?usp=drive_link))
+
+## 📌 About  
+This is my personal portfolio website showcasing my **skills, projects, and experience** as a **Frontend Developer**.  
+Built using **React.js, Tailwind CSS, and JavaScript**, it features a **responsive design, interactive UI elements, and smooth animations**.
+
+## 🛠️ Tech Stack  
+- **Frontend:** React.js, TypeScript, Tailwind CSS, Bootstrap  
+- **Animations:** Framer Motion, GSAP, CSS Animations  
+- **Deployment:** Vercel, Netlify, GitHub Pages  
+
+## 📷 Screenshots  
+![Homepage]([https://yourimageurl.com/homepage.png](https://drive.google.com/file/d/1cljQ9zY0rdv4O9kfwY8KjpV4MI8zwUfo/view?usp=drive_link))  
+![Projects Section]([https://yourimageurl.com/projects.png](https://drive.google.com/file/d/1DWQbLgCVLv51JtaqFcem1IfO7zgAM6v8/view?usp=drive_link))
+
+## ⚙️ Installation & Setup  
+Clone the repository and install dependencies:  
+
+```bash
+git clone https://github.com/yourusername/portfolio.git
+cd portfolio
+npm install
+npm start
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
